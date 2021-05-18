@@ -1,0 +1,28 @@
+  body{
+    background-color: #C8EED9;
+   }
+   h1{
+     background-color: black;
+     color: #66BFBF;
+     font-size: 200%;
+     font-weight: bold;
+     letter-spacing: 2px;
+     word-spacing: 3px;
+   }
+   h3{
+      background-color: black;
+     color: #66BFBF;
+     font-size: 120%;
+     font-weight: lighter;
+     letter-spacing: 1px;
+     word-spacing: 10px;
+     text-shadow: 2px 2px 5px;
+   }
+
+   hr{
+     border-style: none;
+     border-top-style: dotted;
+     border-color: grey;
+     border-width: 5px;
+     width: 5%;
+   }
